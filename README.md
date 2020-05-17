@@ -6,9 +6,9 @@
 # Notes
 If you want to see the results and process, use the final-project-truedata.ipynb. DO NOT EDIT OR RUN THE NOTEBOOK or else you will get errors because the dataset does not exist. 
 
-If you want to test the code and run the notebook yourself, please use final-porject-fakedata.ipynb.
+If you want to test the code and run the notebook yourself, please use final-project-fakedata.ipynb.
 
-##Emma Jardas | NIH Department of Bioethics
+## Emma Jardas | NIH Department of Bioethics
 
 ### **Background**
 
@@ -79,11 +79,11 @@ Decision Trees
 
 Validation
 - [Stratified Cross Validation - Medium](https://medium.com/@haydar_ai/learning-data-science-day-22-cross-validation-and-parameter-tuning-b14bcbc6b012)
--[Cross Validation and Parameter Tuning - Medium](https://medium.com/@haydar_ai/learning-data-science-day-22-cross-validation-and-parameter-tuning-b14bcbc6b012)
--[Cross Validation for Imbalanced Classification - Machine Learning Mastery](https://machinelearningmastery.com/cross-validation-for-imbalanced-classification/)
--[How to Tune a Decision Tree - Towards Data Science](https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680)
+- [Cross Validation and Parameter Tuning - Medium](https://medium.com/@haydar_ai/learning-data-science-day-22-cross-validation-and-parameter-tuning-b14bcbc6b012)
+- [Cross Validation for Imbalanced Classification - Machine Learning Mastery](https://machinelearningmastery.com/cross-validation-for-imbalanced-classification/)
+- [How to Tune a Decision Tree - Towards Data Science](https://towardsdatascience.com/how-to-tune-a-decision-tree-f03721801680)
 
 Evaluating and Visualizing 
 - [ROC AUC - Machine Learning Mastery](https://machinelearningmastery.com/roc-curves-and-precision-recall-curves-for-classification-in-python/)
--[Visualizing Decision Trees - Towards Data Science](https://towardsdatascience.com/visualizing-decision-trees-with-python-scikit-learn-graphviz-matplotlib-1c50b4aa68dc)
--[Evaluating Classification - Towards Data Science](https://towardsdatascience.com/evaluating-machine-learning-classification-problems-in-python-5-1-metrics-that-matter-792c6faddf5)
+- [Visualizing Decision Trees - Towards Data Science](https://towardsdatascience.com/visualizing-decision-trees-with-python-scikit-learn-graphviz-matplotlib-1c50b4aa68dc)
+- [Evaluating Classification - Towards Data Science](https://towardsdatascience.com/evaluating-machine-learning-classification-problems-in-python-5-1-metrics-that-matter-792c6faddf5)
