@@ -1,4 +1,4 @@
-# Emma Jardas, Final Project for BIOF509
+# EJ Jardas, Final Project for BIOF509
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/final-project/master?urlpath=lab/tree/final-project.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/py4ds/final-project/blob/master/final-project.ipynb)
@@ -8,7 +8,7 @@ If you want to see the results and process, use the final-project-truedata.ipynb
 
 If you want to test the code and run the notebook yourself, please use final-project-fakedata.ipynb.
 
-## Emma Jardas | NIH Department of Bioethics
+## EJ Jardas | NIH Department of Bioethics
 
 ### **Background**
 
